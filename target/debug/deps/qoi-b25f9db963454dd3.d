@@ -1,0 +1,13 @@
+C:\Users\Incoknito\downloads\Rust Projects\snake-game\target\debug\deps\qoi-b25f9db963454dd3.rmeta: C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src/lib.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\decode.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\encode.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\error.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\header.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\pixel.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\types.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\utils.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\consts.rs
+
+C:\Users\Incoknito\downloads\Rust Projects\snake-game\target\debug\deps\qoi-b25f9db963454dd3.d: C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src/lib.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\decode.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\encode.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\error.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\header.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\pixel.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\types.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\utils.rs C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\consts.rs
+
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src/lib.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\decode.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\encode.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\error.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\header.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\pixel.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\types.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\utils.rs:
+C:\Users\Incoknito\.cargo\registry\src\github.com-1ecc6299db9ec823\qoi-0.4.1\src\consts.rs:
